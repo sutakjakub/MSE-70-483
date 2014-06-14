@@ -1,0 +1,6 @@
+D:\development-source\mse\MSE70-483\bin\Debug\MSE70-483.exe.config
+D:\development-source\mse\MSE70-483\obj\Debug\MSE70-483.csprojResolveAssemblyReference.cache
+D:\development-source\mse\MSE70-483\bin\Debug\MSE70-483.exe
+D:\development-source\mse\MSE70-483\bin\Debug\MSE70-483.pdb
+D:\development-source\mse\MSE70-483\obj\Debug\MSE70-483.exe
+D:\development-source\mse\MSE70-483\obj\Debug\MSE70-483.pdb
