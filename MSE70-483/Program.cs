@@ -12,7 +12,7 @@ namespace MSE70_483
     {
         static void Main(string[] args)
         {
-            IListing runner = new Listing_1_82_83_84_85_86();
+            IListing runner = new Listing2_48_49();
             runner.Run();
 
             Console.ReadLine();
