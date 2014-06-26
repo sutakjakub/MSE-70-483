@@ -32,7 +32,14 @@
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
   <ItemGroup>
+    <Reference Include="EntityFramework">
+      <HintPath>..\packages\EntityFramework.6.1.1\lib\net45\EntityFramework.dll</HintPath>
+    </Reference>
+    <Reference Include="EntityFramework.SqlServer">
+      <HintPath>..\packages\EntityFramework.6.1.1\lib\net45\EntityFramework.SqlServer.dll</HintPath>
+    </Reference>
     <Reference Include="System" />
+    <Reference Include="System.ComponentModel.DataAnnotations" />
     <Reference Include="System.Core" />
     <Reference Include="System.Net.Http" />
     <Reference Include="System.Xml.Linq" />
@@ -73,11 +80,18 @@
     <Compile Include="Listing\Listing2-39.cs" />
     <Compile Include="Listing\Listing2-45-46.cs" />
     <Compile Include="Listing\Listing2-48-49.cs" />
+    <Compile Include="Listing\Listing3-1.cs" />
+    <Compile Include="Listing\Listing3-17.cs" />
+    <Compile Include="Listing\Listing3-23.cs" />
+    <Compile Include="Listing\Listing3-24.cs" />
+    <Compile Include="Listing\Listing3-25-26.cs" />
+    <Compile Include="Listing\Listing3-27.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
+    <None Include="packages.config" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 

@@ -16,7 +16,7 @@ namespace MSE70_483.Listing
         {
             Console.WriteLine("{0}\nThis listing show how to using virtual keyword.\n", FriendlyName());
 
-            Console.WriteLine("{0}", Regex.Split(FriendlyName(), " and ")[0]);
+            Console.WriteLine(" {0}", Regex.Split(FriendlyName(), " and ")[0]);
             A a = new A();
             a.Execute();
             

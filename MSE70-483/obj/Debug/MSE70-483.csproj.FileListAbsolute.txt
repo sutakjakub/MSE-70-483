@@ -10,3 +10,7 @@ D:\development-source\MSE-70-483\MSE70-483\obj\Debug\MSE70-483.pdb
 D:\development-source\MSE-70-483\MSE70-483\obj\Debug\MSE70-483.csprojResolveAssemblyReference.cache
 D:\development-source\MSE-70-483\MSE70-483\bin\Debug\MSE70-483.exe
 D:\development-source\MSE-70-483\MSE70-483\bin\Debug\MSE70-483.pdb
+D:\development-source\MSE-70-483\MSE70-483\bin\Debug\EntityFramework.dll
+D:\development-source\MSE-70-483\MSE70-483\bin\Debug\EntityFramework.SqlServer.dll
+D:\development-source\MSE-70-483\MSE70-483\bin\Debug\EntityFramework.xml
+D:\development-source\MSE-70-483\MSE70-483\bin\Debug\EntityFramework.SqlServer.xml
